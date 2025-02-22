@@ -59,7 +59,7 @@
 ### 활용 기술 및 도구
 
 - **Frontend**: 
-- **Backend**: 
+- **Backend**: Express, MySQL, Prisma, AWS EC2
 - **Collaboration**: GitHub, Notion, Discord
 
 ---
