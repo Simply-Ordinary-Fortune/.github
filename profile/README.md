@@ -58,7 +58,7 @@
 
 ### 활용 기술 및 도구
 
-- **Frontend**: 
+- **Frontend**: React-Native
 - **Backend**: Express, MySQL, Prisma, AWS EC2
 - **Collaboration**: GitHub, Notion, Discord
 
@@ -71,7 +71,7 @@
 
 | 오늘의 홈 | 날짜 지정 |
 | :---: | :---: |
-| <img src="../screen/홈_오늘(메인).png" width="300"/> | <img src="../screen/홈_날짜_지정.png" width="300"/> |
+| <img src="../screen/홈_오늘(메인).png" width="200"/> | <img src="../screen/홈_날짜_지정.png" width="200"/> |
 
 ---
 
@@ -80,7 +80,7 @@
 
 | 이미지 선택 | 기록 및 태그 선택 | 기록 완료 |
 | :---: | :---: | :---: |
-| <img src="../screen/행운_기록하기.png" width="300"/> | <img src="../screen/행운_기록하기_1.png" width="300"/> | <img src="../screen/행운_기록하기_2.png" width="300"/> |
+| <img src="../screen/행운_기록하기.png" width="200"/> | <img src="../screen/행운_기록하기_1.png" width="200"/> | <img src="../screen/행운_기록하기_2.png" width="200"/> |
 
 ---
 
@@ -89,13 +89,13 @@
 
 | 유리병 메시지 O | 유리병 메시지 X |
 | :---: | :---: |
-| <img src="../screen/행운의_유리평_편지.png" width="300"/> | <img src="../screen/행운의_유리평_편지_1.png" width="300"/> |
+| <img src="../screen/행운의_유리평_편지.png" width="200"/> | <img src="../screen/행운의_유리평_편지_1.png" width="200"/> |
 
 <p>
 
 | 일별 메시지 확인 | 월별 메시지 확인 | 연도별 메시지 확인 |
 | :---: | :---: | :---: |
-| <img src="../screen/행운의_유리병_편지_1.png" width="300"/> | <img src="../screen/행운의_유리병_편지.png" width="300"/> | <img src="../screen/행운의_유리병_편지_2.png" width="300"/> |
+| <img src="../screen/행운의_유리병_편지_1.png" width="200"/> | <img src="../screen/행운의_유리병_편지.png" width="200"/> | <img src="../screen/행운의_유리병_편지_2.png" width="200"/> |
 
 ---
 
@@ -104,7 +104,7 @@
 
 | 태그별 분석 | 월간 기록 확인 | 연간 기록 확인 |
 | :---: | :---: | :---: |
-| <img src="../screen/내_기록_및_통계_2.png" width="300"/> | <img src="../screen/내_기록_및_통계.png" width="300"/> | <img src="../screen/내_기록_및_통계_1.png" width="300"/> |
+| <img src="../screen/내_기록_및_통계_2.png" width="200"/> | <img src="../screen/내_기록_및_통계.png" width="200"/> | <img src="../screen/내_기록_및_통계_1.png" width="200"/> |
 
 ---
 
@@ -113,7 +113,7 @@
 
 | 마이페이지 (설정) |
 | :---: |
-| <img src="../screen/마이페이지(설정).png" width="300"/> |
+| <img src="../screen/마이페이지(설정).png" width="200"/> |
 
 
 ---
